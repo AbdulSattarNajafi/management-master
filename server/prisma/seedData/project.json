@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Project Apollo",
+    "description": "A space exploration project.",
+    "startDate": "2023-01-01T00:00:00Z",
+    "endDate": "2023-12-31T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Project Beacon",
+    "description": "Developing advanced navigation systems.",
+    "startDate": "2023-02-01T00:00:00Z",
+    "endDate": "2023-10-15T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Project Catalyst",
+    "description": "A project to boost renewable energy use.",
+    "startDate": "2023-03-05T00:00:00Z",
+    "endDate": "2024-03-05T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Project Delta",
+    "description": "Delta project for new software development techniques.",
+    "startDate": "2023-01-20T00:00:00Z",
+    "endDate": "2023-09-20T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Project Echo",
+    "description": "Echo project focused on AI advancements.",
+    "startDate": "2023-04-15T00:00:00Z",
+    "endDate": "2023-11-30T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Project Foxtrot",
+    "description": "Exploring cutting-edge biotechnology.",
+    "startDate": "2023-02-25T00:00:00Z",
+    "endDate": "2023-08-25T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Project Golf",
+    "description": "Development of new golf equipment using AI.",
+    "startDate": "2023-05-10T00:00:00Z",
+    "endDate": "2023-12-10T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Project Hotel",
+    "description": "Hotel management system overhaul.",
+    "startDate": "2023-03-01T00:00:00Z",
+    "endDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Project India",
+    "description": "Telecommunication infrastructure upgrade.",
+    "startDate": "2023-06-01T00:00:00Z",
+    "endDate": "2023-12-01T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Project Juliet",
+    "description": "Initiative to enhance cyber-security measures.",
+    "startDate": "2023-07-01T00:00:00Z",
+    "endDate": "2024-02-01T00:00:00Z"
+  }
+]
